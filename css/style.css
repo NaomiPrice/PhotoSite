@@ -1,0 +1,36 @@
+
+.banner{
+	background: grey;
+	height: 200px;
+	width: 1500px;
+
+}
+.container{
+	background: blue;
+	width: 200px;
+	height: 200px;
+}
+.imagetiles{
+	display:block;
+	background: red;
+	position: absolute;
+	top: 200px;
+	bottom: 0;
+	left: 0;
+	right:0;
+}
+.outer{
+    margin-right:-4px;
+    display: inline-block;
+    background:green;
+    width:29vw;
+    height:29vw;
+    padding:2vw;
+    
+}
+.inner{
+    background:gray;
+    /*margin: 30px;*/
+    height:100%;
+    width: 100%;
+}
